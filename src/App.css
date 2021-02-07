@@ -1,0 +1,17 @@
+.task-priority {
+  color:black;
+}
+
+.task-normal {
+  color:chocolate;
+}
+
+.task-design {
+  display: inline-block;
+  position: relative;
+  left: 30%;
+}
+
+.button-spacing {
+  left: 10px;
+}
